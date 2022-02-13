@@ -18,7 +18,7 @@ $("#open").click(function () {
 				content.recipient + "^200Dear&nbsp;&nbsp;Alice<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
 				content.text + "<br><br><p style='float:right; display:block; width:" +
 				content.sign + "px;'>" +
-				content.from + "^200爱你的张小成</p>"
+				content.from + "</p>"
 			],
 			typeSpeed: 100,
 			backSpeed: 50
