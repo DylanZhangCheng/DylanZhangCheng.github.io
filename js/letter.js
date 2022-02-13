@@ -16,9 +16,9 @@ $("#open").click(function () {
 			strings: [
 				"^1000亲爱的朱头" + content.to,
 				content.recipient + "^200Dear&nbsp;&nbsp;Alice<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
-				content.text + "2020年12月5日我们相识，在这436天里，我们每一天都是情人节~<br><br><p style='float:right; display:block; width:" +
-				content.sign + "px;'>^1000哈哈哈" +
-				content.from + "^200一骑绝尘张小成</p>"
+				content.text + "<br><br><p style='float:right; display:block; width:" +
+				content.sign + "px;'>^1000爱你的张小成" +
+				content.from + "^200爱你的张小成</p>"
 			],
 			typeSpeed: 100,
 			backSpeed: 50
